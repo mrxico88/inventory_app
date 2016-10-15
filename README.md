@@ -1,4 +1,4 @@
-# ng-book 2: Inventory App
+# my inventory app: extended from ng-book 2: inventory app
 
 > An Angular 2 inventory app
 
